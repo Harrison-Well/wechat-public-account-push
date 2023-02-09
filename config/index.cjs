@@ -17,7 +17,7 @@ const USER_CONFIG = {
   CITY: '余姚',
   SWITCH: {
           weather: true,
-  }，
+  },
 
   USERS: [
     {
