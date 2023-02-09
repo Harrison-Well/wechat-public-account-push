@@ -29,8 +29,8 @@ const USER_CONFIG = {
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'uMOL5DIjos0Vlmhh8WVKpzX5iN-SYRf0uwph6OdToDg',
      
-      PROVINCE: '浙江',
-      CITY: '余姚',
+      PROVINCE: '浙江省',
+      CITY: '余姚市',
       
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '8-23',
