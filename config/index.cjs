@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '954df472c61726051ce3d4a45aafc515',
 
   PROVINCE: '浙江',
-  CITY: '余姚',
+  CITY: '温州',
   SWITCH: {
           weather: true,
        },
@@ -30,7 +30,7 @@ const USER_CONFIG = {
       useTemplateId: 'uMOL5DIjos0Vlmhh8WVKpzX5iN-SYRf0uwph6OdToDg',
      
       PROVINCE: '浙江省',
-      CITY: '余姚市',
+      CITY: '温州市',
       
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '8-23',
